@@ -30,5 +30,5 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-
+psycopg2
 
